@@ -4,13 +4,13 @@
   NosWings Developers
   <br/>
   <a href="https://noswings.com">
-    <img height="300px" src="docs/_media/logo.png">
+    <img height="300px" src="https://thenosworld.eu/news/index/assets/images/logohaut.png">
   </a>
   <br/>
 </div>
 <br/><br/>
 
-# [NosWings IS BACK](https://noswings.com)
+# [NosWings IS BACK](https://thenosworld.eu)
 
 
 ON.NosWings is our old OpenNos fork to get NosWings server running.
